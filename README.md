@@ -1,1 +1,1 @@
-Techniques of Symbolically solve math problems
+Techniques of Symbolically solving math problems
